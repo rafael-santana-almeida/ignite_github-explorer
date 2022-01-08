@@ -3,5 +3,15 @@
   "version": "1.0.0",
   "main": "index.js",
   "repository": "git@github.com:rafael-santana-almeida/ignite_github-explorer.git",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/cli": "^7.16.7",
+    "@babel/core": "^7.16.7",
+    "@babel/preset-env": "^7.16.7",
+    "@babel/preset-react": "^7.16.7"
+  },
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
 }
