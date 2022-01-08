@@ -1,0 +1,7 @@
+{
+  "name": "github-explorer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:rafael-santana-almeida/ignite_github-explorer.git",
+  "license": "MIT"
+}
