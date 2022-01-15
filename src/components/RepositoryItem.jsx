@@ -4,7 +4,7 @@ export function RepositoryItem({ repository }) {
       <strong>{repository.name}</strong>
       <p>{repository.description}</p>
 
-      <a href={repository.link} target="_blank">
+      <a href={repository.html_url} target="_blank">
         Acessar repositóro
       </a>
     </li>
