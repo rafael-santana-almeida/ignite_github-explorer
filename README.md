@@ -2,7 +2,7 @@
 
 ## :memo: Descrição do projeto
 Essa é uma aplicação simples que lista os respositórios da Rocketseat, providos pela API do Github. <br />
-O projeto foi desenvolvido durante o primeiro módulo do Ignite da Rocketseat, onde fora apresentados os conceitos básicos do ReactJS.
+O projeto foi desenvolvido durante o primeiro módulo do Ignite da Rocketseat, onde foram apresentados os conceitos básicos do ReactJS.
 
 ## :wrench: Tecnologias utilizadas
 * :white_check_mark: ReactJS
