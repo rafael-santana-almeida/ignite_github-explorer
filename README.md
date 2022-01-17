@@ -12,7 +12,7 @@ O projeto foi desenvolvido durante o primeiro módulo do Ignite da Rocketseat, o
 * :white_check_mark: Webpack
 * :white_check_mark: Babel
 
-## :rocket: Features a serem desenvolvidas
+## :rocket: Features para serem desenvolvidas
 * :x: Listar repositórios por organização (atualmente está estático).
 * :x: Criar uma página com detalhes do repositório.
 * :x: Melhorar a estilização.
