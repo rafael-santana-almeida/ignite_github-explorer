@@ -8,7 +8,7 @@ O projeto foi desenvolvido durante o primeiro módulo do Ignite da Rocketseat, o
 * :white_check_mark: ReactJS
 * :white_check_mark: Fetch API
 * :white_check_mark: Typescript
-* :white_check_mark: SCSS
+* :white_check_mark: SASS
 * :white_check_mark: Webpack
 * :white_check_mark: Babel
 
